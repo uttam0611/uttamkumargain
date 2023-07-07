@@ -1,7 +1,7 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://uttam0611.io) 
 <h1 align="center">Hi 👋, I'm uttam kumar gain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width"400" scr"https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="coding" width"400" scr"https://th.bing.com/th/id/OIP.1LIF8WseAwBPVlkR92e4WAAAAA?pid=ImgDet&w=320&h=240&rs=1">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttam0611&label=Profile%20views&color=0e75b6&style=flat" alt="uttam0611" /> </p>
